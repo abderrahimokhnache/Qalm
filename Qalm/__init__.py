@@ -2,7 +2,7 @@ from subprocess import call as shell
 import json 
 
 r"""
-Qalm is way to Handel Files Oprations in One-Line
+Qalm is way to handle Files IO in One-Line
 
 > Normal files IO
 

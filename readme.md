@@ -96,3 +96,5 @@ json_pen(Path ="foo.json", Mode ="a" , Content = tag, Mother ="foo0")
 
 
 ```
+
+### PYPI : https://pypi.org/project/Qalm
