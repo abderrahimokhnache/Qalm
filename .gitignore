@@ -1,0 +1,6 @@
+*.txt
+*.pyc
+/dist
+/build
+/Qalm.egg-info
+setup.py
