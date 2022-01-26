@@ -2,11 +2,6 @@
 
 ## Qalm is a way to handle Files IO in One-Line
 
-### We deal with files all the time 
-### & most of time handling files makes our
-### code NOT-DRY, with Qalm you can read/write & more in One-Line 
-### also Qalm handles JSON Files in special way
-
 ## Usage :
 
 
